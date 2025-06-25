@@ -1,2 +1,4 @@
 .env
 Report-LLm + SerpAPI.docx
+
+# Ignore the .env file which contains sensitive information

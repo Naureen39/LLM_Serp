@@ -1,4 +1,4 @@
-## 📘 Overview
+## Overview
 
 This repository showcases a prototype pipeline for **prompt-based microsite generation**, where large language models (LLMs) are augmented with real-time web search data. The core objective is to produce **concise, promotional microsites** enriched with the latest contextual information, without relying on static or bio-link content.
 
@@ -6,7 +6,7 @@ At the heart of this approach is the integration of the **Serper API**, a fast a
 
 ---
 
-## 🧠 Notebooks
+## Notebooks
 
 ### 1. `Google_Serper.ipynb`
 
@@ -38,7 +38,7 @@ This helps illustrate how integrating **search-based grounding** directly impact
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone this repository and ensure a working Python environment with Jupyter installed.
 2. Obtain a Serper API key and insert it into the relevant section of `google_serper_test.ipynb`.
@@ -56,7 +56,7 @@ This helps illustrate how integrating **search-based grounding** directly impact
 
 ---
 
-## 🧩 Use Cases
+## Use Cases
 
 This system can be adapted for:
 
